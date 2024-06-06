@@ -1,3 +1,3 @@
 # SmartCarParkingSystem
 Working of the project :
-https://drive.google.com/file/d/1IcM9W0lyARs7rDHs2_ZUEj-mBAQBi11g/view?usp=sharing
+(https://youtu.be/lRq4mYhFKMc?si=2nK-3A7zFqYXqYry)
